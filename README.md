@@ -4,7 +4,7 @@ Standalone source for the AshaRatna Tech static website.
 
 ## Build
 
-Requires Node.js 20 or newer and pnpm.
+Requires Node.js 20.19 or newer (or 22.12 or newer) and pnpm 10.
 
 ```sh
 pnpm install
