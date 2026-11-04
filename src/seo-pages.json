@@ -1,0 +1,627 @@
+{
+  "siteName": "AshaRatna Tech",
+  "siteUrl": "https://asharatnatech.com",
+  "ogImage": "/og-asharatna-tech.jpg",
+  "ogImageAlt": "AshaRatna Tech AI, automation, and software solutions",
+  "ogImageWidth": 1200,
+  "ogImageHeight": 630,
+  "pages": [
+    {
+      "path": "/",
+      "outputFile": "index.html",
+      "title": "AI & Automation Software Solutions | AshaRatna Tech",
+      "description": "AshaRatna Tech develops AI calling tools, manufacturing automation, IoT, payroll apps, and software for better business communication and daily workflows.",
+      "robots": "index,follow,max-image-preview:large",
+      "heading": "AI and Automation Solutions",
+      "summary": "AI calling, manufacturing automation, IoT, payroll apps, and software solutions for businesses.",
+      "sections": [
+        "AI call and chat",
+        "Manufacturing and machine automation",
+        "IoT, payroll apps, and software",
+        "Website and app services"
+      ],
+      "relatedLinks": [
+        {
+          "href": "/website-app-testing",
+          "label": "Remote website and app testing"
+        },
+        {
+          "href": "/seo-services",
+          "label": "SEO services for websites and apps"
+        },
+        {
+          "href": "/govt-form-filling",
+          "label": "Government form filling and fee directory"
+        }
+      ],
+      "includeInSitemap": true
+    },
+    {
+      "path": "/about",
+      "outputFile": "about.html",
+      "title": "About AshaRatna Tech | AI, Automation & Software Services",
+      "description": "Explore AshaRatna Tech's AI calling, business apps, web services, manufacturing automation and IoT, plus government form assistance, an ebook and internships.",
+      "robots": "index,follow",
+      "heading": "About AshaRatna Tech",
+      "summary": "AshaRatna Tech's core offer spans business software and customer communication, and industrial operations technology. Other listings include form assistance, freelancer services, an ebook, and remote internships.",
+      "sections": [
+        "Business software and customer communication: AI calling and chat, CRM and lead services, attendance and payroll apps, websites, testing, and SEO",
+        "Industrial operations technology: AI manufacturing, machine automation, motor rewinding, and IoT",
+        "Additional listings: Indian government form-filling assistance, app and website development, an ebook, and remote internship opportunities",
+        "Business registrations: GSTIN 27FXUPP8652K1Z9; Udyam Registration No. UDYAM-MH-26-1201729 (enterprise name on certificate: ASHARATNA TECH)"
+      ],
+      "relatedLinks": [
+        {
+          "href": "/website-app-testing",
+          "label": "Explore website and app testing"
+        },
+        {
+          "href": "/seo-services",
+          "label": "Explore SEO services"
+        },
+        {
+          "href": "/govt-form-filling",
+          "label": "Government form-filling assistance"
+        },
+        {
+          "href": "/freelancer",
+          "label": "App and website development services"
+        },
+        {
+          "href": "/ebook-buy",
+          "label": "View the static-site ebook"
+        },
+        {
+          "href": "/remote-internship",
+          "label": "Explore remote internship details"
+        }
+      ],
+      "includeInSitemap": true
+    },
+    {
+      "path": "/website-app-testing",
+      "outputFile": "website-app-testing.html",
+      "title": "Free Website & App Testing Service | AshaRatna Tech",
+      "description": "Request a free initial website or app test from AshaRatna Tech. Share your URL on WhatsApp or email for a review of key user flows and mobile layouts.",
+      "robots": "index,follow",
+      "heading": "Remote Website and App Testing",
+      "eyebrow": "WEBSITE & APP TESTING",
+      "summary": "Request a free initial website or app test from AshaRatna Tech. Send your public URL on WhatsApp or email and share the user flow you want checked.",
+      "contentSections": [
+        {
+          "heading": "Test the paths that matter to your users",
+          "paragraphs": [
+            "Remote website and app testing looks at how people move through a product, not only whether individual screens load. AshaRatna Tech can scope checks around the tasks that matter to your audience, such as finding information, navigating between pages, completing a form, or using an account flow.",
+            "Testing begins with an agreed set of pages, devices, browsers, and user journeys. A focused scope helps teams understand what was checked and where more coverage may be useful."
+          ],
+          "bullets": [
+            "Navigation, links, and page interactions",
+            "Forms and the feedback users receive after submitting them",
+            "Account, enquiry, booking, or purchase flows where applicable"
+          ]
+        },
+        {
+          "heading": "Review the mobile and browser experience",
+          "paragraphs": [
+            "A website that works on a desktop can still be difficult to use on a phone. Checks can include layout at common screen sizes, text readability, tap targets, visible content, and whether important actions remain easy to find.",
+            "Browser and device differences can also affect how a page behaves. Agreeing on the browsers and devices your customers use helps make testing relevant instead of relying on a generic checklist."
+          ]
+        },
+        {
+          "heading": "Get findings that are easier to act on",
+          "paragraphs": [
+            "A useful testing report describes the issue, how to reproduce it, the expected result, and the observed result. Where available, screenshots and device or browser details can help a developer verify the problem.",
+            "Testing can reduce uncertainty before a release, but no test can guarantee that every possible defect has been found. The report should make the tested scope and any remaining gaps clear."
+          ]
+        },
+        {
+          "heading": "How to prepare for a remote test",
+          "paragraphs": [
+            "To discuss a testing request, share the public website or app link, the main actions users need to complete, and the devices or browsers that matter most. You can also describe any known issue or recent change you want reviewed.",
+            "If a test requires an account, arrange access through a safe method agreed with the team. Do not send passwords or other sensitive access details in an ordinary email."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What does remote website and app testing cover?",
+          "answer": "The scope can include navigation, important user flows, forms, mobile layouts, and browser-specific behavior. The exact checks are agreed before testing begins."
+        },
+        {
+          "question": "Can you test a website on mobile devices?",
+          "answer": "Yes. A testing request can focus on mobile screen layouts and the actions customers need to complete on a phone. The devices and browsers should be agreed as part of the scope."
+        },
+        {
+          "question": "Does testing guarantee a bug-free website or app?",
+          "answer": "No. Testing helps find and document issues within an agreed scope, but it cannot guarantee that every defect or device-specific problem has been found."
+        },
+        {
+          "question": "Can I get a website or app test for free?",
+          "answer": "Yes. Send a public website or app URL to request one free initial test. Any deeper or ongoing testing can be discussed separately."
+        }
+      ],
+      "cta": {
+        "heading": "Get a free first test",
+        "description": "Send your public website or app URL on WhatsApp or email to request a free initial test. Include the main page or user flow you would like checked.",
+        "href": "mailto:connect@asharatnatech.com?subject=Free%20website%20and%20app%20test&body=Hi%20AshaRatna%20Tech%2C%0A%0AI%20would%20like%20a%20free%20initial%20website%20and%20app%20test.%0A%0AWebsite%2Fapp%20URL%3A%20",
+        "label": "Email your URL",
+        "whatsappHref": "https://wa.me/918788486350?text=Hi%20AshaRatna%20Tech%2C%20I%20would%20like%20a%20free%20initial%20website%20and%20app%20test.%20Website%2Fapp%20URL%3A%20",
+        "whatsappLabel": "Share URL on WhatsApp"
+      },
+      "relatedLinks": [
+        {
+          "href": "/seo-services",
+          "label": "SEO services for websites and apps"
+        },
+        {
+          "href": "/about",
+          "label": "About AshaRatna Tech"
+        }
+      ],
+      "includeInSitemap": true
+    },
+    {
+      "path": "/seo-services",
+      "outputFile": "seo-services.html",
+      "title": "Free SEO Check for Websites & Apps | AshaRatna Tech",
+      "description": "Request a free initial SEO check from AshaRatna Tech. Send your website URL on WhatsApp or email for feedback on search visibility, metadata, and pages.",
+      "robots": "index,follow",
+      "heading": "SEO Services for Websites and Web Apps",
+      "eyebrow": "SEARCH VISIBILITY",
+      "summary": "Request a free initial SEO check from AshaRatna Tech. Send your website URL on WhatsApp or email to get initial feedback on search visibility and page setup.",
+      "contentSections": [
+        {
+          "heading": "Start with crawlability and technical SEO",
+          "paragraphs": [
+            "Search visibility depends on more than adding keywords to a page. Technical SEO checks whether important pages can be found, crawled, and indexed, and whether search engines receive consistent signals about each URL.",
+            "A review can cover robots directives, XML sitemaps, canonical URLs, page status codes, mobile basics, and duplicate or missing metadata. The findings help separate issues that block discovery from improvements that can be prioritized over time."
+          ]
+        },
+        {
+          "heading": "Make each page match a clear search intent",
+          "paragraphs": [
+            "On-page SEO helps visitors and search engines understand what a page offers. This can include unique page titles and descriptions, one descriptive main heading, useful subheadings, natural wording, and relevant internal links.",
+            "For a service business, a page should explain who the service is for, what work may be included, and how to ask for more information. Clear copy is more useful than repeating the same keyword without answering a real question."
+          ],
+          "bullets": [
+            "Review titles, descriptions, headings, and image text",
+            "Improve internal links between related service pages",
+            "Clarify page content around the questions potential customers ask"
+          ]
+        },
+        {
+          "heading": "Build useful coverage for websites and web apps",
+          "paragraphs": [
+            "A homepage alone may not explain every service clearly. Dedicated pages can help visitors compare relevant offerings and give search engines a more specific page to understand for each topic.",
+            "SEO work can be planned around the pages and goals that matter to your business. It should not promise a particular ranking: search results depend on competition, site quality, search engine changes, and signals beyond any one page."
+          ]
+        },
+        {
+          "heading": "Measure progress and choose the next improvement",
+          "paragraphs": [
+            "SEO is an ongoing process. Once analytics and search performance tools are configured, teams can review which pages attract visits, how people arrive, and whether the content supports useful enquiries.",
+            "A practical plan prioritizes technical blockers first, then improves important pages and reviews the results. Contact AshaRatna Tech with your website or web app URL and the audience or service you want to reach."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What is included in website SEO services?",
+          "answer": "Work can include technical checks for crawling and indexing, page titles and descriptions, heading structure, internal links, and content clarity. The exact scope depends on the site and its goals."
+        },
+        {
+          "question": "Can SEO guarantee a first-page ranking?",
+          "answer": "No. No SEO provider can guarantee a specific search ranking. SEO improves a site's technical and content readiness, while results also depend on competition and search engine systems."
+        },
+        {
+          "question": "How do I request an SEO review?",
+          "answer": "Send your website URL and the services or audience you want to reach on WhatsApp or email to request a free initial SEO check."
+        },
+        {
+          "question": "What does the free SEO check include?",
+          "answer": "The initial check provides first observations about discoverability and page setup. Any deeper or ongoing SEO work can be discussed separately."
+        }
+      ],
+      "cta": {
+        "heading": "Get a free SEO check",
+        "description": "Send your website URL on WhatsApp or email to request a free initial SEO check. You can also share which service or audience you want to reach.",
+        "href": "mailto:connect@asharatnatech.com?subject=Free%20SEO%20check&body=Hi%20AshaRatna%20Tech%2C%0A%0AI%20would%20like%20a%20free%20initial%20SEO%20check.%0A%0AWebsite%20URL%3A%20",
+        "label": "Email your URL",
+        "whatsappHref": "https://wa.me/918788486350?text=Hi%20AshaRatna%20Tech%2C%20I%20would%20like%20a%20free%20initial%20SEO%20check.%20Website%20URL%3A%20",
+        "whatsappLabel": "Share URL on WhatsApp"
+      },
+      "relatedLinks": [
+        {
+          "href": "/website-app-testing",
+          "label": "Remote website and app testing"
+        },
+        {
+          "href": "/about",
+          "label": "About AshaRatna Tech"
+        }
+      ],
+      "includeInSitemap": true
+    },
+    {
+      "path": "/freelancer",
+      "outputFile": "freelancer.html",
+      "title": "Freelance App & Website Development | AshaRatna Tech",
+      "description": "AshaRatna Tech builds apps and websites for businesses. Share your project idea, audience, features, and timeline by WhatsApp or email to discuss a build.",
+      "robots": "index,follow",
+      "heading": "Freelance App and Website Development",
+      "eyebrow": "FREELANCE DEVELOPMENT",
+      "summary": "AshaRatna Tech builds apps and websites for businesses. Share your idea, audience, key features, and timeline to discuss a project.",
+      "contentSections": [
+        {
+          "heading": "Apps and websites built around your idea",
+          "paragraphs": [
+            "Need a mobile app, web app, or business website? AshaRatna Tech can discuss what you want to build and shape the work around your users and business needs.",
+            "Share the problem you want to solve, the people who will use it, and the main tasks they need to complete. This helps start a practical conversation about the right scope."
+          ]
+        },
+        {
+          "heading": "What to include in your project message",
+          "paragraphs": [
+            "A short project brief helps us understand what you need before discussing next steps. You do not need a finished specification to get in touch."
+          ],
+          "bullets": [
+            "Whether you need a mobile app, web app, or website",
+            "Who will use it and the main features you have in mind",
+            "Any preferred platform, launch timeline, or reference example"
+          ]
+        },
+        {
+          "heading": "Contact AshaRatna Tech to discuss the build",
+          "paragraphs": [
+            "Use WhatsApp or email to describe your idea. We can discuss the project requirements and possible next steps with you."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How can I ask AshaRatna Tech to build an app or website?",
+          "answer": "Send a short description of what you want to build, the main features, and your preferred timeline using the WhatsApp or email buttons."
+        },
+        {
+          "question": "Do I need a complete project brief before contacting you?",
+          "answer": "No. A basic idea, intended users, and a few key features are enough to start a project discussion."
+        }
+      ],
+      "cta": {
+        "heading": "Need an app or website built?",
+        "description": "Tell us what you want to build, who it is for, and the features you have in mind. Contact AshaRatna Tech by WhatsApp or email to discuss your project.",
+        "href": "mailto:connect@asharatnatech.com?subject=App%20or%20website%20development%20enquiry&body=Hi%20AshaRatna%20Tech%2C%0A%0AI%27m%20looking%20to%20build%20an%20app%20or%20website.%0A%0AProject%20details%3A%20",
+        "label": "Email your project",
+        "whatsappHref": "https://wa.me/918788486350?text=Hi%20AshaRatna%20Tech%2C%20I%27m%20looking%20to%20build%20an%20app%20or%20website.%20Project%20details%3A%20",
+        "whatsappLabel": "WhatsApp your project"
+      },
+      "relatedLinks": [
+        {
+          "href": "/website-app-testing",
+          "label": "Website and app testing"
+        },
+        {
+          "href": "/seo-services",
+          "label": "SEO services"
+        }
+      ],
+      "includeInSitemap": true
+    },
+    {
+      "path": "/govt-form-filling",
+      "outputFile": "govt-form-filling.html",
+      "title": "Government Form Assistance & Fees | AshaRatna Tech",
+      "description": "Find help with 35+ Indian government forms. Compare official fees with published service prices, check sources, and contact AshaRatna on WhatsApp or email.",
+      "robots": "index,follow",
+      "heading": "Government Form Filling & Assistance",
+      "eyebrow": "GOVERNMENT FORM ASSISTANCE",
+      "summary": "Browse 35 common central and Maharashtra government services. Compare official fees and sourced provider prices, search by service, and contact AshaRatna by WhatsApp or email.",
+      "contentSections": [
+        {
+          "heading": "Official fees and assistance prices are separate",
+          "paragraphs": [
+            "The directory shows government charges separately from published provider price examples. Provider examples are not government fees or AshaRatna prices, and their scope may differ. Where no reliable public price could be verified, the directory says so instead of guessing.",
+            "AshaRatna's form-filling charge is confirmed by written quote before paid work begins. Government charges are paid through the relevant official channel. Fee information was checked on 8 October 2026 and can change, so confirm it on the linked government portal before paying."
+          ]
+        },
+        {
+          "heading": "Common central and Maharashtra services",
+          "paragraphs": [
+            "Search across 35 commonly requested services, including identity documents, Maharashtra certificates, business registrations, tax forms, social-welfare schemes, education applications, and local permits. Government services and forms vary by state, district, eligibility, and notice. If a form is not listed, ask AshaRatna whether it can be supported."
+          ]
+        },
+        {
+          "heading": "Use authorised routes and protect personal information",
+          "paragraphs": [
+            "AshaRatna Tech is an independent service provider, not a government office. Government departments decide eligibility, accept applications, and issue certificates or approvals. Aadhaar enrolment and biometrics must be completed at an authorised UIDAI centre. Udyam and e-Shram registration are free on their official portals; their official notices warn against registration charges.",
+            "Do not send Aadhaar or PAN images, OTPs, passwords, or bank credentials through ordinary WhatsApp or email. Use an official secure portal or authorised service centre for sensitive information."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Does AshaRatna Tech represent a government department?",
+          "answer": "No. AshaRatna Tech is independent and does not make government eligibility or approval decisions. The linked official portals are the authority for applications and fees."
+        },
+        {
+          "question": "Are the published service prices AshaRatna's fees?",
+          "answer": "No. Any third-party price example is identified as a provider example. AshaRatna confirms its own assistance fee in a written quote before paid work begins."
+        },
+        {
+          "question": "Does the directory include every government form in India?",
+          "answer": "It covers 35 common central and Maharashtra services, not every central, state, district, municipal, or scheme-specific form. Contact AshaRatna about a service that is not listed."
+        },
+        {
+          "question": "How can I ask about one service?",
+          "answer": "Use the WhatsApp or email action on that service card. Ask for the document checklist and a written assistance quote; do not include identity documents or OTPs in the first message."
+        }
+      ],
+      "cta": {
+        "heading": "Ask about a government form",
+        "description": "Use a service card to message AshaRatna on WhatsApp or email. Request the document checklist and a written assistance fee before any paid work.",
+        "href": "mailto:connect@asharatnatech.com?subject=Government%20form%20assistance%20enquiry&body=Hi%20AshaRatna%20Tech%2C%0A%0AI%20need%20help%20with%20this%20government%20form%3A%20%0A%0APlease%20share%20the%20required%20documents%20and%20your%20written%20service%20fee.%20I%20will%20not%20include%20identity%20documents%2C%20OTPs%2C%20or%20passwords.",
+        "label": "Email form enquiry",
+        "whatsappHref": "https://wa.me/918788486350?text=Hi%20AshaRatna%20Tech%2C%20I%20need%20help%20with%20a%20government%20form.%20Please%20share%20the%20document%20checklist%20and%20your%20written%20service%20fee.%20I%20will%20not%20send%20identity%20documents%2C%20OTPs%2C%20or%20passwords.",
+        "whatsappLabel": "WhatsApp form enquiry"
+      },
+      "includeInSitemap": true
+    },
+    {
+      "path": "/ebook-buy",
+      "outputFile": "ebook-buy.html",
+      "title": "Build a Website with Replit & Vercel | AshaRatna Tech",
+      "description": "Step-by-step guide to building a static website in Replit, publishing it through GitHub and Vercel, and connecting a custom domain you own from start to launch.",
+      "robots": "index,follow",
+      "heading": "How to Make a Static Site in Replit for Vercel and Add a Domain",
+      "summary": "A beginner-friendly guide to building a static website in Replit, publishing it on Vercel, and connecting a custom domain.",
+      "sections": [
+        "Build the site in Replit",
+        "Send the project to GitHub",
+        "Publish it on Vercel",
+        "Connect a custom domain"
+      ],
+      "cta": {
+        "href": "https://www.amazon.in/s?k=How%20to%20Make%20a%20Static%20Site%20in%20Replit%20for%20Vercel%20and%20Add%20a%20Domain",
+        "label": "Find the ebook on Amazon India"
+      },
+      "includeInSitemap": true
+    },
+    {
+      "path": "/payment",
+      "outputFile": "payment.html",
+      "title": "Service Payment Details | AshaRatna Tech",
+      "description": "View payment details for AshaRatna Tech services. Contact the team to confirm service-specific pricing and available payment options.",
+      "robots": "noindex,follow",
+      "heading": "Payment details",
+      "summary": "Payment information for AshaRatna Tech services.",
+      "includeInSitemap": false
+    },
+    {
+      "path": "/remote-internship",
+      "outputFile": "remote-internship.html",
+      "title": "Remote Internship Opportunities | AshaRatna Tech Careers",
+      "description": "Explore remote internship opportunities at AshaRatna Tech. Apply online with your qualification, email, phone number, and city to begin the application process.",
+      "robots": "index,follow",
+      "heading": "Remote Internship at AshaRatna Tech",
+      "summary": "Submit your name, qualification, phone, email, and city through the remote internship application form.",
+      "sections": [
+        "Name",
+        "Qualification",
+        "Phone number",
+        "Email",
+        "City"
+      ],
+      "includeInSitemap": true
+    },
+    {
+      "path": "/terms",
+      "outputFile": "terms.html",
+      "title": "Terms of Service for AshaRatna Tech Website & Apps",
+      "description": "Read the terms for using AshaRatna Tech websites and services, including quotes, payments, third-party links, intellectual property, support, and your rights.",
+      "robots": "index,follow",
+      "heading": "Terms of Service",
+      "summary": "These terms explain how the AshaRatna Tech website and its listed services may be used. Last updated 23 October 2026.",
+      "contentSections": [
+        {
+          "heading": "Important notice",
+          "paragraphs": [
+            "These website terms are general information, not legal advice. Consumer and privacy rules differ by country. AshaRatna Tech India should have these terms reviewed for the countries where it actively offers services."
+          ]
+        },
+        {
+          "heading": "Who these terms cover",
+          "paragraphs": [
+            "AshaRatna Tech India is the registered business name supplied by the operator and is registered in India. It operates this website under the AshaRatna Tech name. These terms apply to your use of this website and services that link to them. Services may not be available in every country and remain subject to local law and provider restrictions.",
+            "The Payroll App and its payment flow are hosted at https://payroll.asharatnatech.com. The app's payment flow is not processed by this main website. Review any terms shown within that app before using its payment features."
+          ]
+        },
+        {
+          "heading": "Service information, quotes, and orders",
+          "paragraphs": [
+            "Service descriptions are general information and do not create an order. Unless a page states a fixed price, request a written quote that confirms the scope, deliverables, fees, taxes, timing, and payment method before work begins.",
+            "A service is accepted when both sides confirm the scope and applicable charges. Delivery dates are estimates unless explicitly agreed in writing. You are responsible for providing accurate information and materials you are authorized to share.",
+            "For international orders, the quote or checkout should identify the billing currency and applicable taxes where known. Your bank, card issuer, marketplace, or payment provider may apply currency conversion, cross-border fees, or local taxes. Confirm those charges with the relevant provider before paying."
+          ]
+        },
+        {
+          "heading": "Payments, cancellations, and refunds",
+          "paragraphs": [
+            "Payment links may open a third-party payment provider. Card details are handled by that provider, not by the main website. Payroll App payments are handled through the separate app flow at payroll.asharatnatech.com.",
+            "Refund eligibility and cancellation handling are explained in our Refund and Cancellation Policy. Third-party marketplaces and payment providers may apply their own terms in addition to ours. Nothing in these terms limits rights that cannot lawfully be excluded."
+          ]
+        },
+        {
+          "heading": "Acceptable use and intellectual property",
+          "paragraphs": [
+            "Do not misuse the website, attempt to disrupt its operation, use it unlawfully, or submit content that you do not have the right to share. Website text, design, branding, and other materials belong to their respective owners and may not be copied or used commercially without permission, except where applicable law allows."
+          ]
+        },
+        {
+          "heading": "External services and availability",
+          "paragraphs": [
+            "The website may link to external websites, apps, stores, or payment services. Those services are operated by third parties under their own policies; AshaRatna Tech does not control their content, availability, or data practices.",
+            "We work to keep the website available and information current, but online services may be interrupted or changed. We may update these terms or website content; the date above shows when these terms were last revised."
+          ]
+        },
+        {
+          "heading": "Contact and applicable rights",
+          "paragraphs": [
+            "For questions about these terms, email connect@asharatnatech.com or call +91 87884 86350. AshaRatna Tech is based in India. Applicable law and dispute procedures depend on the service and the mandatory consumer protections that apply to you; these terms do not remove those protections."
+          ]
+        }
+      ],
+      "relatedLinks": [
+        {
+          "href": "/privacy",
+          "label": "Privacy Policy"
+        },
+        {
+          "href": "/refund-cancellation",
+          "label": "Refund and Cancellation Policy"
+        }
+      ],
+      "includeInSitemap": true
+    },
+    {
+      "path": "/privacy",
+      "outputFile": "privacy.html",
+      "title": "Privacy Policy for the AshaRatna Tech Website & Apps",
+      "description": "Learn what information AshaRatna Tech receives, how forms, analytics, hosting, email, and payment links work, and how visitors can exercise privacy choices.",
+      "robots": "index,follow",
+      "heading": "Privacy Policy",
+      "summary": "This policy describes information handled through the AshaRatna Tech website, how it is used and shared, and the choices available to visitors. Last updated 23 October 2026.",
+      "contentSections": [
+        {
+          "heading": "Important notice",
+          "paragraphs": [
+            "This policy is a general description, not legal advice or a guarantee of compliance in every country. Data-protection rights and obligations depend on your location and the services you use. AshaRatna Tech India should obtain jurisdiction-specific review before actively serving users in new countries."
+          ]
+        },
+        {
+          "heading": "Who is responsible for this website",
+          "paragraphs": [
+            "AshaRatna Tech India is the registered business name supplied by the operator and is registered in India. It operates the website under the AshaRatna Tech name. For privacy questions or requests, contact connect@asharatnatech.com or +91 87884 86350, or write to Sector 21, Scheme 11, Building 20/4, Sketting Ground, SPM School Road, Nigdi, Pune 411044, Maharashtra, India."
+          ]
+        },
+        {
+          "heading": "Information you choose to send",
+          "paragraphs": [
+            "When you contact us, we receive the information you include in your message, such as your name, email address, phone number, and enquiry details. The remote internship form prepares an email containing the name, qualification, phone, email, and city you enter. It opens your email application; the website does not submit that form to its own application database. If you send the email, your email provider and our mailbox process it."
+          ]
+        },
+        {
+          "heading": "Website operation, analytics, and browser storage",
+          "paragraphs": [
+            "Our hosting provider may process technical request information, such as IP address, browser, device, and requested page, to deliver and protect the website. If analytics is enabled in the deployed environment, the site can send events such as navigation-tab clicks and app-install events to Umami. Analytics providers may process technical identifiers under their own privacy terms.",
+            "The site may use browser local storage to remember that an app-install event has already been counted on that browser. It does not store your name, email, or payment-card details in that value. The visitor total shown on the site is a manually updated aggregate snapshot, not a live individual visitor profile."
+          ]
+        },
+        {
+          "heading": "Payroll App and payment services",
+          "paragraphs": [
+            "The Payroll App and its payment flow are hosted separately at https://payroll.asharatnatech.com; they are not processed by this main website. That app may collect information needed to provide its features and process its payment flow under the notices shown in the app.",
+            "Links on this website may take you to third-party payment providers, marketplaces, or other sites. If you choose to pay through one of them, the provider handles your card or payment credentials under its own privacy policy. We do not ask you to send card numbers, security codes, passwords, or one-time passcodes by email or WhatsApp."
+          ]
+        },
+        {
+          "heading": "How information is used and shared",
+          "paragraphs": [
+            "We use enquiry details to respond, assess and deliver requested services, maintain business records, protect the website, and meet legal obligations. Replit provides hosting and infrastructure for this website. If enabled, Umami receives the limited website events described above. The email provider handling messages to connect@asharatnatech.com processes correspondence, and any third-party payment provider you choose handles its own payment data. Providers may process information under their own terms and privacy notices. We do not sell personal information."
+          ]
+        },
+        {
+          "heading": "International processing, retention, and your choices",
+          "paragraphs": [
+            "AshaRatna Tech is based in India. Website hosting, email, analytics, and payment providers may process information in India or other countries where they or their service providers operate. Where applicable, we take steps required by law for international transfers.",
+            "We keep enquiry correspondence only as long as needed to respond, provide services, maintain required records, and resolve disputes. Depending on your location and applicable law—including, where applicable, India's Digital Personal Data Protection Act, the EU or UK GDPR, or US state privacy laws—you may have rights to access, correct, delete, receive a copy of, or restrict personal information, withdraw consent, or object to certain processing. Contact connect@asharatnatech.com; we may need to verify your request and may retain records where the law requires."
+          ]
+        },
+        {
+          "heading": "Security and policy updates",
+          "paragraphs": [
+            "We use reasonable safeguards for information under our control, but no internet transmission or storage system can be guaranteed completely secure. This policy may be updated as the website or applicable requirements change; the revision date above identifies the latest version."
+          ]
+        }
+      ],
+      "relatedLinks": [
+        {
+          "href": "/terms",
+          "label": "Terms of Service"
+        },
+        {
+          "href": "/refund-cancellation",
+          "label": "Refund and Cancellation Policy"
+        }
+      ],
+      "includeInSitemap": true
+    },
+    {
+      "path": "/refund-cancellation",
+      "outputFile": "refund-cancellation.html",
+      "title": "Refund and Cancellation Policy for AshaRatna Tech Services",
+      "description": "See how to cancel AshaRatna Tech services, request eligible refunds, understand digital-product exceptions, and allow 5–7 business days for refund processing.",
+      "robots": "index,follow",
+      "heading": "Refund and Cancellation Policy",
+      "summary": "This policy explains cancellation requests, refund eligibility, and processing timelines for purchases made directly from AshaRatna Tech. Last updated 23 October 2026.",
+      "contentSections": [
+        {
+          "heading": "Important notice",
+          "paragraphs": [
+            "This policy is a general description, not legal advice. Mandatory consumer rights vary by country and may provide additional cancellation, refund, warranty, or dispute options. Those rights take precedence over any conflicting term here."
+          ]
+        },
+        {
+          "heading": "Which purchases this policy covers",
+          "paragraphs": [
+            "This policy applies to services or products purchased directly from AshaRatna Tech, unless your written quote or order confirmation states a different lawful term. If you bought an ebook, app, or other product through Amazon, an app store, or another marketplace, that provider's refund and cancellation rules apply to the transaction.",
+            "The Payroll App and its payment flow are hosted at https://payroll.asharatnatech.com, not on this main website. Contact us about a Payroll App purchase and include the order or transaction reference; the app's own purchase terms and any payment-provider rules may also apply.",
+            "For an international purchase, check the displayed billing currency, taxes, and payment-provider terms before confirming. Your bank or card provider controls any foreign-exchange rate or cross-border fee."
+          ]
+        },
+        {
+          "heading": "Cancelling a service",
+          "paragraphs": [
+            "Contact us at connect@asharatnatech.com as soon as possible to request cancellation. If work has not started, we will cancel the order and refund amounts paid, less any clearly disclosed, lawful, non-recoverable third-party charges agreed before purchase.",
+            "If work has started, we may deduct the fair value of work already completed and any approved, non-recoverable third-party costs, then refund any remaining eligible balance. We will explain the calculation. Completed services and digital items already supplied are generally not refundable unless the service was not delivered as agreed, was materially defective, or applicable law provides another remedy."
+          ]
+        },
+        {
+          "heading": "Requesting a refund",
+          "paragraphs": [
+            "Email connect@asharatnatech.com with your name, order or transaction reference, purchase date, the service or product, and a short explanation. Do not include your full card number, card security code, password, or one-time passcode. We may request reasonable information to verify the purchase."
+          ]
+        },
+        {
+          "heading": "Refund review and timing",
+          "paragraphs": [
+            "We will review the request and tell you whether it is approved or if more information is needed. Once approved, we aim to initiate the refund to the original payment method within 5–7 business days.",
+            "Your bank, card network, payment provider, country, and currency-conversion process may require additional time before funds appear. Exchange-rate movements or fees charged by your bank or card issuer may affect the amount credited; those charges are controlled by the relevant provider."
+          ]
+        },
+        {
+          "heading": "Consumer rights",
+          "paragraphs": [
+            "This policy does not limit any mandatory refund, cancellation, warranty, or consumer right that applies under the law in your location. If a legal right provides a more favorable remedy, that right takes precedence."
+          ]
+        },
+        {
+          "heading": "Contact",
+          "paragraphs": [
+            "For cancellation or refund questions, contact connect@asharatnatech.com or call +91 87884 86350. Business address: Sector 21, Scheme 11, Building 20/4, Sketting Ground, SPM School Road, Nigdi, Pune 411044, Maharashtra, India."
+          ]
+        }
+      ],
+      "relatedLinks": [
+        {
+          "href": "/terms",
+          "label": "Terms of Service"
+        },
+        {
+          "href": "/privacy",
+          "label": "Privacy Policy"
+        }
+      ],
+      "includeInSitemap": true
+    }
+  ]
+}

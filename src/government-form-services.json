@@ -1,0 +1,557 @@
+{
+  "checkedOn": "8 October 2026",
+  "categories": [
+    "Identity & travel",
+    "Maharashtra certificates",
+    "Business & tax",
+    "Schemes & education",
+    "Local permits & records"
+  ],
+  "services": [
+    {
+      "id": "aadhaar",
+      "name": "Aadhaar enrolment & updates",
+      "category": "Identity & travel",
+      "description": "Guidance for enrolment, demographic updates, document updates, and finding the right UIDAI service.",
+      "governmentCost": "New enrolment is free. A chargeable biometric update is ₹125; demographic update at a centre is ₹75. Online document update is free until 14 June 2027, and Aadhaar App email updates are free until 31 December 2026.",
+      "comparison": "UIDAI sets the fees. Enrolment and biometrics must be completed at an authorised UIDAI centre; no third-party online filing price is comparable.",
+      "ashaRatnaPrice": "Guidance only. We do not collect Aadhaar OTPs or provide biometric enrolment or updates.",
+      "officialSources": [
+        {
+          "label": "UIDAI fee schedule",
+          "url": "https://www.uidai.gov.in/images/Aadhaar_Enrolment__and__Update__-__English.pdf"
+        }
+      ]
+    },
+    {
+      "id": "pan",
+      "name": "PAN application, correction & reprint",
+      "category": "Identity & travel",
+      "description": "Help understanding the current PAN application route and preparing a new, correction, or reprint request.",
+      "governmentCost": "Instant e-PAN is free for eligible first-time applicants. Other Indian-address routes currently range from ₹66 for e-PAN-only to ₹107 for a physical card, depending on the submission method.",
+      "comparison": "No consistent independent assistance price was verified. Compare any service charge separately from the PAN processing fee.",
+      "officialSources": [
+        {
+          "label": "Protean PAN processing fees",
+          "url": "https://tinpan.proteantech.in/faqs/pan/faq-pan-procedure.html"
+        },
+        {
+          "label": "Income Tax Department: free Instant e-PAN",
+          "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/instant-e-pan"
+        }
+      ]
+    },
+    {
+      "id": "passport",
+      "name": "Passport: new, renewal & reissue",
+      "category": "Identity & travel",
+      "description": "Form and appointment guidance for fresh passports, renewals, reissues, and Tatkaal applications.",
+      "governmentCost": "For an adult 36-page passport, the normal fee is ₹2,500; Tatkaal total is ₹5,000. Fees differ for booklet size, age, and service.",
+      "comparison": "TaxFetch advertised a passport-assistance plan from ₹499 when checked. That is a provider's service price, not the Passport Seva fee; confirm inclusions before paying.",
+      "marketSource": {
+        "label": "TaxFetch advertised price",
+        "url": "https://taxfetchindia.com/passport-application"
+      },
+      "officialSources": [
+        {
+          "label": "Passport Seva fee schedule",
+          "url": "https://www.passportindia.gov.in/psp/onlineHtml/feeDocument"
+        }
+      ]
+    },
+    {
+      "id": "voter-id",
+      "name": "Voter ID: new registration & corrections",
+      "category": "Identity & travel",
+      "description": "Application guidance for new voter registration, shifting address, correcting details, and replacement requests.",
+      "governmentCost": "Election Commission voter applications such as Form 6 and Form 8 are available through the official voter portal. The application itself is free.",
+      "comparison": "No reliable, standard private assistance price was found. Ask for a written quote before paying for help.",
+      "officialSources": [
+        {
+          "label": "Election Commission voter portal",
+          "url": "https://voters.eci.gov.in/"
+        }
+      ]
+    },
+    {
+      "id": "driving-licence",
+      "name": "Driving licence: learner, permanent & renewal",
+      "category": "Identity & travel",
+      "description": "Guidance for learner licences, driving tests, renewals, address changes, and replacement applications.",
+      "governmentCost": "Central fee schedule lists ₹150 for a learner licence, ₹50 for its test, and ₹300 for a driving competence test per vehicle class. Other service and state charges can apply.",
+      "comparison": "No consistent private assistance price was verified; RTO service, vehicle class, and state affect the total.",
+      "officialSources": [
+        {
+          "label": "Parivahan licence fees",
+          "url": "https://parivahan.gov.in/en/content/licensing-related-fees-charges"
+        }
+      ]
+    },
+    {
+      "id": "ration-card",
+      "name": "Ration card: new, update & member changes",
+      "category": "Identity & travel",
+      "description": "Help finding Maharashtra's official route for a new card, address change, or adding/removing a household member.",
+      "governmentCost": "The charge depends on the service and applicable state process. Check the amount shown by Maharashtra's official ration-card system before submitting.",
+      "comparison": "No reliable standard private price was found. AshaRatna assistance is quoted separately from any government charge.",
+      "officialSources": [
+        {
+          "label": "Maharashtra Ration Card Management System",
+          "url": "https://rcms.mahafood.gov.in/"
+        },
+        {
+          "label": "Pune District: new ration card",
+          "url": "https://pune.gov.in/en/service/online-application-for-new-ration-card"
+        }
+      ]
+    },
+    {
+      "id": "income-certificate",
+      "name": "Maharashtra income certificate",
+      "category": "Maharashtra certificates",
+      "description": "Application preparation for an income certificate used for eligible schemes, admissions, and other government services.",
+      "governmentCost": "The Maharashtra Aaple Sarkar checklist lists a ₹20 service fee.",
+      "comparison": "No consistent public private-service price was verified. Any form-filling charge should be separate from the ₹20 government service fee.",
+      "officialSources": [
+        {
+          "label": "Aaple Sarkar income certificate fee and checklist",
+          "url": "https://aaplesarkar.mahaonline.gov.in/pdf/Fees,%20Procedure,%20Checklist_Income%20Certificate.pdf"
+        }
+      ]
+    },
+    {
+      "id": "domicile-certificate",
+      "name": "Age, nationality & domicile certificate",
+      "category": "Maharashtra certificates",
+      "description": "Help preparing Maharashtra applications for age, nationality, and domicile certificates.",
+      "governmentCost": "The Maharashtra Aaple Sarkar checklist lists a ₹20 service fee.",
+      "comparison": "No consistent public private-service price was verified. Any form-filling charge should be separate from the ₹20 government service fee.",
+      "officialSources": [
+        {
+          "label": "Aaple Sarkar domicile fee and checklist",
+          "url": "https://aaplesarkar.mahaonline.gov.in/pdf/Fees,%20Procedure,%20Checklist_Domicile%20Certificate.pdf"
+        }
+      ]
+    },
+    {
+      "id": "caste-certificate",
+      "name": "Maharashtra caste certificate",
+      "category": "Maharashtra certificates",
+      "description": "Guidance for the caste-certificate application and its supporting-document checklist.",
+      "governmentCost": "The Maharashtra Aaple Sarkar checklist lists a ₹40 service fee.",
+      "comparison": "No consistent public private-service price was verified. Any form-filling charge should be separate from the ₹40 government service fee.",
+      "officialSources": [
+        {
+          "label": "Aaple Sarkar caste certificate fee and checklist",
+          "url": "https://aaplesarkar.mahaonline.gov.in/pdf/Fees,%20Procedure,%20Checklist_Caste%20Certificate.pdf"
+        }
+      ]
+    },
+    {
+      "id": "non-creamy-layer",
+      "name": "Non-Creamy Layer certificate",
+      "category": "Maharashtra certificates",
+      "description": "Help checking the Maharashtra application route and document requirements for a Non-Creamy Layer certificate.",
+      "governmentCost": "The current portal displays the applicable charge during the application. Confirm the amount there because a fixed fee was not published in the source checked.",
+      "comparison": "No reliable standard private-service price was found. Request a written service quote before work begins.",
+      "officialSources": [
+        {
+          "label": "Maharashtra Aaple Sarkar service",
+          "url": "https://aaplesarkar.mahaonline.gov.in/en/Login/Certificate_Documents?ServiceId=1286"
+        }
+      ]
+    },
+    {
+      "id": "birth-certificate",
+      "name": "Birth certificate",
+      "category": "Maharashtra certificates",
+      "description": "Guidance for birth registration, certificate requests, and corrections through the relevant municipal registrar.",
+      "governmentCost": "Fees can depend on the local registrar, registration timing, and certificate copy. Verify the amount with the responsible local authority; no statewide fee amount was confirmed in the source checked.",
+      "comparison": "No single private price applies across municipal bodies. Ask for a quote after the location and request type are known.",
+      "officialSources": [
+        {
+          "label": "Maharashtra Aaple Sarkar birth-certificate service",
+          "url": "https://aaplesarkar.mahaonline.gov.in/en/Login/Certificate_Documents?ServiceId=2476"
+        },
+        {
+          "label": "Maharashtra municipal birth-certificate service",
+          "url": "https://mahadma.maharashtra.gov.in/en/services/birth-certificate"
+        }
+      ]
+    },
+    {
+      "id": "death-certificate",
+      "name": "Death certificate",
+      "category": "Maharashtra certificates",
+      "description": "Guidance for requesting a death certificate or correcting a record through the local registrar.",
+      "governmentCost": "Maharashtra's Aaple Sarkar checklist says the first copy is free. Local-body, late-registration, and additional-copy charges can differ.",
+      "comparison": "No single private price applies across municipal bodies. Ask for a quote after the location and request type are known.",
+      "officialSources": [
+        {
+          "label": "Aaple Sarkar death-certificate fee and checklist",
+          "url": "https://aaplesarkar.mahaonline.gov.in/pdf/MH%20EODB_Fees,Procedure,Checklist_DeathCertificate.pdf"
+        }
+      ]
+    },
+    {
+      "id": "marriage-registration",
+      "name": "Marriage registration",
+      "category": "Maharashtra certificates",
+      "description": "Help identifying the right registrar and preparing the required marriage-registration application.",
+      "governmentCost": "Maharashtra's published schedule lists ₹100 for an application under the Special Marriage Act and ₹150 for solemnisation at the Registrar's office. Other routes can differ.",
+      "comparison": "No consistent private-service price was found. Confirm the applicable government route and charge with the registrar.",
+      "officialSources": [
+        {
+          "label": "Maharashtra registration fee schedule",
+          "url": "https://igrmaharashtra.gov.in/pdf/Procedure_fees_Marriage%20Certificate.docx.pdf"
+        }
+      ]
+    },
+    {
+      "id": "land-records",
+      "name": "Land records: 7/12, 8A & mutation",
+      "category": "Local permits & records",
+      "description": "Guidance for finding land-record extracts and the relevant Maharashtra mutation or record-update application.",
+      "governmentCost": "Government charges vary by record, transaction, and service. Check the official land-record or revenue portal before paying.",
+      "comparison": "No reliable single private price was found; the requested record and correction determine the work.",
+      "officialSources": [
+        {
+          "label": "Maharashtra land records",
+          "url": "https://bhulekh.mahabhumi.gov.in/"
+        }
+      ]
+    },
+    {
+      "id": "udyam-msme",
+      "name": "Udyam / MSME registration",
+      "category": "Business & tax",
+      "description": "Guidance to identify the official Udyam route and prepare the information needed for registration.",
+      "governmentCost": "₹0. The Ministry of MSME says Udyam registration is free and warns that no agency, institution, or consultant is authorised to charge for it.",
+      "comparison": "No paid market price is presented: the official government portal says registration is free and warns against paying an agent.",
+      "ashaRatnaPrice": "We can point you to the free official process; no Udyam registration charge is quoted.",
+      "officialSources": [
+        {
+          "label": "Official Udyam portal and fee warning",
+          "url": "https://udyamregistration.gov.in/"
+        }
+      ]
+    },
+    {
+      "id": "gst-registration",
+      "name": "GST registration",
+      "category": "Business & tax",
+      "description": "Help preparing GST registration information and understanding the official online application steps.",
+      "governmentCost": "₹0 for applying through the official GST portal. Eligibility, supporting documents, and registration obligations depend on the business.",
+      "comparison": "An IndiaFilings published guide cites ₹500–₹1,500 for basic professional help and ₹2,000–₹5,000 for broader support. These are provider estimates, not official fees.",
+      "marketSource": {
+          "label": "IndiaFilings published price guide",
+        "url": "https://www.indiafilings.com/learn/what-is-the-fees-for-gst-registration"
+      },
+      "officialSources": [
+        {
+          "label": "Official GST portal",
+          "url": "https://www.gst.gov.in/"
+        }
+      ]
+    },
+    {
+      "id": "gst-returns",
+      "name": "GST returns, amendments & profile updates",
+      "category": "Business & tax",
+      "description": "Form-filling support for eligible GST return, amendment, and registration-profile workflows.",
+      "governmentCost": "The official portal does not charge a form-submission fee for ordinary online filing; late fees, interest, tax dues, or other liabilities may apply.",
+      "comparison": "Professional fees depend on return type, transaction volume, and backlog. No comparable single price was verified.",
+      "officialSources": [
+        {
+          "label": "Official GST portal",
+          "url": "https://www.gst.gov.in/"
+        }
+      ]
+    },
+    {
+      "id": "fssai",
+      "name": "FSSAI food registration & licence",
+      "category": "Business & tax",
+      "description": "Help identifying the correct FoSCoS application for a food business and preparing the supporting information.",
+      "governmentCost": "Basic registration is ₹100 per year. State and Central licence fees depend on the business category and are generally higher; check the FoSCoS fee table.",
+      "comparison": "IndiaFilings advertises assistance starting from ₹1,899 and lists statutory fees separately. Confirm the licence type and service scope before purchase.",
+      "marketSource": {
+        "label": "IndiaFilings published FSSAI price",
+        "url": "https://www.indiafilings.com/fssai/registration-fees"
+      },
+      "officialSources": [
+        {
+          "label": "FoSCoS official Central and registration fees",
+          "url": "https://foscos.fssai.gov.in/fee/Reg"
+        },
+        {
+          "label": "FoSCoS official State licence fees",
+          "url": "https://foscos.fssai.gov.in/fee/SL"
+        },
+        {
+          "label": "FoSCoS official portal",
+          "url": "https://foscos.fssai.gov.in/"
+        }
+      ]
+    },
+    {
+      "id": "iec",
+      "name": "Importer Exporter Code (IEC)",
+      "category": "Business & tax",
+      "description": "Guidance for a new DGFT IEC application or an update to existing IEC details.",
+      "governmentCost": "DGFT's published application fee for a new IEC is ₹500. Annual update, amendment, and other service fees can differ.",
+      "comparison": "IndiaFilings advertises an IEC service package from ₹2,899 plus GST. Confirm whether the ₹500 DGFT fee is included in the package.",
+      "marketSource": {
+        "label": "IndiaFilings published IEC package",
+        "url": "https://www.indiafilings.com/import-export-code/fees"
+      },
+      "officialSources": [
+        {
+          "label": "DGFT official application-fee schedule",
+          "url": "https://content.dgft.gov.in/Website/dgftprod/85f0e5a2-14d7-4e66-b9c4-4eba7bfd1810/Appendix-2k.pdf"
+        },
+        {
+          "label": "DGFT portal",
+          "url": "https://www.dgft.gov.in/CP/"
+        }
+      ]
+    },
+    {
+      "id": "shop-establishment",
+      "name": "Maharashtra Shop & Establishment",
+      "category": "Business & tax",
+      "description": "Help finding the correct registration or intimation route for a Maharashtra shop or establishment.",
+      "governmentCost": "The route and fee depend on establishment size and employee count. Confirm the amount shown by Maharashtra's Labour Management System.",
+      "comparison": "No consistent current private-service price was verified. Any professional service charge is separate from a portal fee.",
+      "officialSources": [
+        {
+          "label": "Maharashtra Labour Department services",
+          "url": "https://labour.maharashtra.gov.in/en/services"
+        },
+        {
+          "label": "Maharashtra Labour Management System",
+          "url": "https://lms.mahaonline.gov.in/"
+        }
+      ]
+    },
+    {
+      "id": "professional-tax",
+      "name": "Maharashtra Professional Tax (PTEC / PTRC)",
+      "category": "Business & tax",
+      "description": "Guidance for checking the correct Professional Tax enrolment or employer registration route.",
+      "governmentCost": "Tax payable depends on the applicant or employer category and current state schedule; there is no single flat amount for every case.",
+      "comparison": "No reliable standard private-service price was found. Confirm tax dues on the official portal and request a separate service quote.",
+      "officialSources": [
+        {
+          "label": "Maharashtra GST and Professional Tax portal",
+          "url": "https://mahagst.gov.in/"
+        }
+      ]
+    },
+    {
+      "id": "company-incorporation",
+      "name": "Company incorporation (SPICe+)",
+      "category": "Business & tax",
+      "description": "Guidance for the Ministry of Corporate Affairs SPICe+ incorporation workflow and its linked registrations.",
+      "governmentCost": "MCA filing charges, stamp duty, and other statutory costs depend on company type, authorised capital, and state.",
+      "comparison": "No directly comparable public package was verified for your specific company structure. Get a written professional quote and itemised statutory costs.",
+      "officialSources": [
+        {
+          "label": "Ministry of Corporate Affairs",
+          "url": "https://www.mca.gov.in/"
+        }
+      ]
+    },
+    {
+      "id": "llp-incorporation",
+      "name": "LLP incorporation",
+      "category": "Business & tax",
+      "description": "Guidance for the MCA LLP incorporation workflow, designated-partner details, and required forms.",
+      "governmentCost": "MCA filing charges and stamp duty depend on contribution amount, state, and application details.",
+      "comparison": "No directly comparable public price was verified for every LLP structure. Ask for an itemised quote before work begins.",
+      "officialSources": [
+        {
+          "label": "Ministry of Corporate Affairs",
+          "url": "https://www.mca.gov.in/"
+        }
+      ]
+    },
+    {
+      "id": "epfo-registration",
+      "name": "EPFO employer establishment registration",
+      "category": "Business & tax",
+      "description": "Guidance for checking employer coverage and the EPFO establishment-registration steps.",
+      "governmentCost": "EPFO describes online establishment registration as free. Coverage thresholds and employer contribution duties still apply.",
+      "comparison": "No reliable single private-service price was verified. Separate any consultant charge from EPFO contributions and statutory dues.",
+      "officialSources": [
+        {
+          "label": "EPFO employer services",
+          "url": "https://www.epfindia.gov.in/site_en/For_Employers.php?id=sm1_index"
+        }
+      ]
+    },
+    {
+      "id": "esic-registration",
+      "name": "ESIC employer registration",
+      "category": "Business & tax",
+      "description": "Guidance for checking ESIC employer coverage, registration requirements, and related forms.",
+      "governmentCost": "The applicable registration and contribution requirements depend on establishment coverage and employee details. Confirm current charges with ESIC.",
+      "comparison": "No reliable single private-service price was verified. Ask for a scope-based quote and separate service fees from contributions.",
+      "officialSources": [
+        {
+          "label": "Employees' State Insurance Corporation",
+          "url": "https://www.esic.gov.in/"
+        }
+      ]
+    },
+    {
+      "id": "itr-filing",
+      "name": "Income Tax Return (ITR) filing",
+      "category": "Business & tax",
+      "description": "Form-preparation guidance for individual or business income-tax return workflows, based on the applicable return type.",
+      "governmentCost": "Self-filing through the Income Tax e-Filing portal is free. Tax, interest, late fees, and professional assistance are separate.",
+      "comparison": "Professional preparation fees vary by return type and complexity; no single comparable market price was verified.",
+      "officialSources": [
+        {
+          "label": "Income Tax e-Filing portal",
+          "url": "https://www.incometax.gov.in/iec/foportal/"
+        }
+      ]
+    },
+    {
+      "id": "tan",
+      "name": "TAN application & correction",
+      "category": "Business & tax",
+      "description": "Guidance for a new Tax Deduction and Collection Account Number or a change request.",
+      "governmentCost": "Protean currently lists a ₹77 processing fee, including GST.",
+      "comparison": "No consistent private assistance price was verified; compare any service fee separately from the ₹77 processing fee.",
+      "officialSources": [
+        {
+          "label": "Protean TAN application fee",
+          "url": "https://tinpan.proteantech.in/services/tan/tan-introduction.html"
+        }
+      ]
+    },
+    {
+      "id": "trademark",
+      "name": "Trademark application (Form TM-A)",
+      "category": "Business & tax",
+      "description": "Initial form guidance for identifying a trademark class and preparing an online application.",
+      "governmentCost": "IP India e-filing fee is ₹4,500 per mark per class for an individual, startup, or small enterprise, and ₹9,000 for other applicants.",
+      "comparison": "Professional search, classification, and filing prices vary. No directly comparable current service package was verified.",
+      "officialSources": [
+        {
+          "label": "IP India forms and official fees",
+          "url": "https://ipindia.gov.in/pages/trade-marks/learn/forms-and-official-fees"
+        }
+      ]
+    },
+    {
+      "id": "trade-licence",
+      "name": "Municipal trade licence, NOC & local permits",
+      "category": "Local permits & records",
+      "description": "Help identifying the local-body application for a trade licence, no-objection certificate, or business permit.",
+      "governmentCost": "Fees depend on the municipality, activity, premises, and licence type. The local authority's current portal is the source for the amount.",
+      "comparison": "No single private-service price applies across local bodies. Request a quote after the city and licence type are confirmed.",
+      "officialSources": [
+        {
+          "label": "Maharashtra Directorate of Municipal Administration",
+          "url": "https://mahadma.maharashtra.gov.in/en/home/"
+        }
+      ]
+    },
+    {
+      "id": "e-shram",
+      "name": "e-Shram registration & profile update",
+      "category": "Schemes & education",
+      "description": "Guidance for eligible unorganised workers registering or updating their e-Shram profile.",
+      "governmentCost": "₹0. The official e-Shram FAQ says registration is free and workers should not pay any registering entity.",
+      "comparison": "No paid registration price is shown because the official portal says workers should not be charged for registration.",
+      "ashaRatnaPrice": "We can direct you to the free official process; no e-Shram registration fee is quoted.",
+      "officialSources": [
+        {
+          "label": "e-Shram official FAQ",
+          "url": "https://eshram.gov.in/faqs"
+        }
+      ]
+    },
+    {
+      "id": "pm-kisan",
+      "name": "PM-Kisan registration & corrections",
+      "category": "Schemes & education",
+      "description": "Guidance for farmer registration, status checks, or correction steps through the PM-Kisan portal.",
+      "governmentCost": "Use the official portal to confirm the current application steps and any charge shown. Scheme eligibility and benefit approval are decided by the government.",
+      "comparison": "No reliable independent price benchmark was found. Avoid anyone promising guaranteed approval or payment.",
+      "officialSources": [
+        {
+          "label": "PM-Kisan official portal",
+          "url": "https://pmkisan.gov.in/"
+        }
+      ]
+    },
+    {
+      "id": "ayushman-bharat",
+      "name": "Ayushman Bharat PM-JAY beneficiary card",
+      "category": "Schemes & education",
+      "description": "Guidance for checking eligibility and finding the official beneficiary-card workflow.",
+      "governmentCost": "Eligibility and beneficiary status are determined by the scheme. Check the official portal for any applicable process or charge.",
+      "comparison": "No reliable independent price benchmark was found. Do not pay anyone who guarantees eligibility or scheme approval.",
+      "officialSources": [
+        {
+          "label": "Ayushman Bharat beneficiary portal",
+          "url": "https://beneficiary.nha.gov.in/"
+        }
+      ]
+    },
+    {
+      "id": "scholarship",
+      "name": "National Scholarship Portal applications",
+      "category": "Schemes & education",
+      "description": "Help finding the correct scholarship notice, student registration, and application checklist.",
+      "governmentCost": "The NSP says One Time Registration is free. Its portal lists a ₹30 CSC charge for the complete assisted activity per candidate, including OTR and application filing.",
+      "comparison": "The ₹30 figure is the portal's published CSC activity charge, not a general private-service rate; confirm what the local CSC includes.",
+      "officialSources": [
+        {
+          "label": "National Scholarship Portal and CSC charge",
+          "url": "https://scholarships.gov.in/"
+        },
+        {
+          "label": "NSP One Time Registration guidelines",
+          "url": "https://scholarships.gov.in/otrapplication/"
+        }
+      ]
+    },
+    {
+      "id": "pension-benefits",
+      "name": "Pension & social-welfare applications",
+      "category": "Schemes & education",
+      "description": "Help locating eligible central or Maharashtra pension and social-welfare application routes.",
+      "governmentCost": "Fees and eligibility depend on the individual scheme and state. Check the current official scheme notice before applying.",
+      "comparison": "No single market price applies across pension schemes. AshaRatna will confirm any assistance fee before work.",
+      "officialSources": [
+        {
+          "label": "Maharashtra Aaple Sarkar services",
+          "url": "https://aaplesarkar.mahaonline.gov.in/en/Registration/Register"
+        }
+      ]
+    },
+    {
+      "id": "competitive-exams",
+      "name": "UPSC, MPSC & government exam applications",
+      "category": "Schemes & education",
+      "description": "Checklist and form-entry guidance for public-service and government recruitment examinations.",
+      "governmentCost": "Application fees, exemptions, and deadlines vary by exam and candidate category. Follow the current official notification.",
+      "comparison": "No uniform private assistance price was verified. Check the exam notice and request a written quote for any form support.",
+      "officialSources": [
+        {
+          "label": "Union Public Service Commission",
+          "url": "https://upsc.gov.in/"
+        },
+        {
+          "label": "Maharashtra Public Service Commission",
+          "url": "https://mpsc.gov.in/"
+        }
+      ]
+    }
+  ]
+}

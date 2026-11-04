@@ -1,0 +1,54 @@
+{
+  "outputDirectory": "dist/public",
+  "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/about",
+      "destination": "/about.html"
+    },
+    {
+      "source": "/website-app-testing",
+      "destination": "/website-app-testing.html"
+    },
+    {
+      "source": "/seo-services",
+      "destination": "/seo-services.html"
+    },
+    {
+      "source": "/freelancer",
+      "destination": "/freelancer.html"
+    },
+    {
+      "source": "/govt-form-filling",
+      "destination": "/govt-form-filling.html"
+    },
+    {
+      "source": "/ebook-buy",
+      "destination": "/ebook-buy.html"
+    },
+    {
+      "source": "/payment",
+      "destination": "/payment.html"
+    },
+    {
+      "source": "/remote-internship",
+      "destination": "/remote-internship.html"
+    },
+    {
+      "source": "/terms",
+      "destination": "/terms.html"
+    },
+    {
+      "source": "/privacy",
+      "destination": "/privacy.html"
+    },
+    {
+      "source": "/refund-cancellation",
+      "destination": "/refund-cancellation.html"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
